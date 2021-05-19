@@ -2,7 +2,7 @@
     "Products": [
         {
             "id ": "1",
-            "name      ": "Awesome Product 1",
+            "name": "Awesome Product 1",
             "price": "28.4",
             "priceAfterDiscount": "25",
             "imageName": "cat1",
@@ -11,7 +11,7 @@
         },
         {
             "id ": "2",
-            "name      ": "Cool Product 2",
+            "name": "Cool Product 2",
             "price": "63.9",
             "priceAfterDiscount": "40",
             "imageName": "cat2",
@@ -20,7 +20,7 @@
         },
         {
             "id ": "3",
-            "name      ": "Amazing Product 3",
+            "name": "Amazing Product 3",
             "price": "26.4",
             "priceAfterDiscount": "19",
             "imageName": "cat3",
@@ -29,7 +29,7 @@
         },
         {
             "id ": "4",
-            "name      ": "Huge Product 4",
+            "name": "Huge Product 4",
             "price": "58.1",
             "priceAfterDiscount": "50",
             "imageName": "cat4",
@@ -38,7 +38,7 @@
         },
         {
             "id ": "5",
-            "name      ": "Tiny Product 5",
+            "name": "Tiny Product 5",
             "price": "58.3",
             "priceAfterDiscount": "48",
             "imageName": "cat5",
@@ -47,7 +47,7 @@
         },
         {
             "id ": "6",
-            "name      ": "Expensive Product 6",
+            "name": "Expensive Product 6",
             "price": "82.4",
             "priceAfterDiscount": "77",
             "imageName": "cat6",
